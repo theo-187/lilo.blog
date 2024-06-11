@@ -6,4 +6,4 @@ pinned = false
 tags = []
 image = "bildschirmfoto-2022-11-10-um-09.53.37.png"
 +++
-Das Kroko lebt überal.
+Das Kroko lebt überall.
